@@ -1,0 +1,808 @@
+Uri: https://demo.awaikenthemes.com/assets/js/theme-panel.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\assets\js\theme-panel.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/assets/videos/fintech-video.mp4
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\assets\videos\fintech-video.mp4
+Content Type: video/mp4
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://html.awaikenthemes.com/fintech/404.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\404.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/about.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\about.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/blog-single.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\blog-single.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/blog.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\blog.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/clients.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\clients.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/contact.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\contact.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/css/all.min.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\css\all.min.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/fintech/css/animate.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\css\animate.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/fintech/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/fintech/css/custom.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\css\custom.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/fintech/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/fintech/css/mousecursor.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\css\mousecursor.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/fintech/css/slicknav.min.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\css\slicknav.min.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/fintech/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/fintech/faqs.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\faqs.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/image-gallery.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\image-gallery.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/images/404-error-img.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\404-error-img.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/fintech/images/about-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\about-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/about-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\about-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/about-img-bg.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\about-img-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/arrow-accent.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\arrow-accent.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/arrow-text.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\arrow-text.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/arrow-white.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\arrow-white.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/author-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/author-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/author-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/author-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\author-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/author-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\author-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/author-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\author-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/client-logo-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\client-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/client-logo-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\client-logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/client-logo-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\client-logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/client-testimonial-quote.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\client-testimonial-quote.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/company-logo-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\company-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/company-logo-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\company-logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/company-logo-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\company-logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/company-logo-4.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\company-logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/company-logo-5.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\company-logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/company-logo-6.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\company-logo-6.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/company-logo-7.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\company-logo-7.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/company-logo-8.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\company-logo-8.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/company-logo-9.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\company-logo-9.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/contact-info-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\contact-info-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/contact-info-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\contact-info-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/contact-us-img.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\contact-us-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/contact-us-img.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\contact-us-img.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/cta-box-bg.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\cta-box-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/customer-logo.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\customer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/customer-rating-img.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\customer-rating-img.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/fact-counter-img.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\fact-counter-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/fact-counter-skillbar-img.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\fact-counter-skillbar-img.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/fintech/images/faqs-img.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\faqs-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/favicon.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\favicon.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/fintech/images/footer-bg.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\footer-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/footer-logo.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/gallery-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/gallery-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/gallery-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/gallery-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/gallery-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/gallery-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/gallery-7.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\gallery-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/gallery-8.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\gallery-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/gallery-9.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\gallery-9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/hero-bg-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\hero-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/hero-bg.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\hero-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/hero-img.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\hero-img.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-blockquote.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-blockquote.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-experience.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-experience.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-fact-counter-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-fact-counter-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-fact-counter-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-fact-counter-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-fact-counter-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-fact-counter-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-financial-strategies.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-financial-strategies.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-google.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-google.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-location.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-location.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-mail.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-benefit-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-benefit-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-benefit-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-benefit-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-benefit-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-benefit-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-benefit-4.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-benefit-4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-feature-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-feature-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-feature-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-feature-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-feature-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-feature-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-feature-4.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-feature-4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-feature-5.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-feature-5.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-feature-6.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-feature-6.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-mission.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-mission.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-value.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-value.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-our-vision.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-our-vision.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-phone.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-play.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-play.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-pricing-benefit-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-pricing-benefit-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-pricing-benefit-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-pricing-benefit-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-pricing-benefit-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-pricing-benefit-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-service-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-service-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-service-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-service-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-service-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-service-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-service-4.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-service-4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-service-5.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-service-5.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-service-6.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-service-6.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-sub-heading.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-sub-heading.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-why-choose-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-why-choose-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/icon-why-choose-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\icon-why-choose-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/loader.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/logo.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/our-benefit-img.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\our-benefit-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/our-feature-bg.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\our-feature-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/our-mission-img.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\our-mission-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/our-partner-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\our-partner-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/our-partner-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\our-partner-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/our-partner-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\our-partner-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/our-partner-4.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\our-partner-4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/our-partners-bg.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\our-partners-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/our-value-img.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\our-value-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/our-vision-img.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\our-vision-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/page-header-bg.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\page-header-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/post-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/post-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/post-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/post-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\post-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/post-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\post-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/post-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\post-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/satisfy-client-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\satisfy-client-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/satisfy-client-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\satisfy-client-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/satisfy-client-img-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\satisfy-client-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/satisfy-client-img-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\satisfy-client-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/satisfy-client-img-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\satisfy-client-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/service-guidance-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\service-guidance-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/service-guidance-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\service-guidance-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/service-guidance-img-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\service-guidance-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/service-single-img.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\service-single-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/service-video-bg.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\service-video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/team-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/team-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/team-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/team-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/team-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/team-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\team-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/testimonial-bg-img.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\testimonial-bg-img.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/testimonial-quotes.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\testimonial-quotes.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/fintech/images/what-we-do-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\what-we-do-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/what-we-do-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\what-we-do-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/why-choose-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\why-choose-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/images/why-choose-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\images\why-choose-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/fintech/index-image.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\index-image.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/index-slider.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\index-slider.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/index-video.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\index-video.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/index.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\index.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/function.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\function.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/gsap.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/jquery.mb.YTPlayer.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\jquery.mb.YTPlayer.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/jquery.slicknav.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/magiccursor.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\magiccursor.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/parallaxie.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\parallaxie.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/SmoothScroll.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/SplitText.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\SplitText.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/validator.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\validator.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/js/wow.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/fintech/pricing.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\pricing.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/service-single.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\service-single.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/services.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\services.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/team-single.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\team-single.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/team.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\team.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/testimonial.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\testimonial.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/video-gallery.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\video-gallery.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/fintech/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://html.awaikenthemes.com/fintech/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.awaikenthemes.com/fintech/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://html.awaikenthemes.com/fintech/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.awaikenthemes.com/fintech/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://html.awaikenthemes.com/fintech/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.awaikenthemes.com/fintech/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://html.awaikenthemes.com/fintech/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\fintech\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
